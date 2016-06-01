@@ -1,3 +1,4 @@
+<!-- Name: Shannon Lenise Fitzgerald -->
 <?php
 	require_once '../includes/session.php';
 	require_once '../includes/db_connection.php';
